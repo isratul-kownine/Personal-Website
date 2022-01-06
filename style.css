@@ -1,0 +1,55 @@
+body
+{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+     font-family: 'Roboto', sans-serif;
+} 
+.introduction
+{
+    display:flex;
+} 
+h1 
+{
+    font-weight:800;
+    font-size:40px;
+    border-left:3px solid tomato;
+    border-radius:3px;
+    padding-left:3%;
+} 
+.heading-color
+{
+    color:orange;
+}
+.half-width
+{
+    width:70%;
+    padding-left:10%;
+  
+} 
+.half-width p
+{ 
+    
+   font-size:18px;
+}
+.half-width img
+{
+   width:80%;
+}
+.writing-part
+{
+    padding-top:10%;
+} 
+.link-button
+{    
+    text-decoration:none;
+    color:white;
+    border:5px solid;
+    border-radius:10px;
+    padding:10px 20px;
+    background-color:coral;
+    font-weight:400;
+    font-size:20px;
+
+
+
+}
