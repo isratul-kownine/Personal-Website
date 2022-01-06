@@ -12,10 +12,13 @@ h1
 {
     font-weight:800;
     font-size:40px;
+    
+}  
+.border-head{
     border-left:3px solid tomato;
     border-radius:3px;
-    padding-left:3%;
-} 
+    padding-left:2%;
+}
 .heading-color
 {
     color:orange;
@@ -52,7 +55,6 @@ h1
 } 
 .second-head
 {
-    border:0;
     text-align:center;
     font-family: 'Karla', sans-serif;
     font-family: 'Playfair Display', serif;
@@ -93,3 +95,85 @@ h1
         background-color:antiquewhite;
 
     } 
+    
+    .styling-rest-part
+    {
+        margin-top:100px;
+        margin-right:60px;
+        width:50%;
+        
+    
+    } 
+    .img-border
+    {
+        border-radius:10px;
+        margin-left:50px;
+        
+    } 
+    #develop 
+    {
+       padding-left:10px;
+       text-align:justify;
+       font-size:15px;
+    }
+    #add-bg
+    {
+        background-image: url("shape-1.png");
+        background-position:left bottom;
+        background-size:22%;
+        background-repeat: no-repeat;
+    }
+    #community
+    {
+        padding-right:10px;
+        text-align:justify;
+        font-size:15px;
+    }
+    #add-bg2
+    {
+        background-image: url("shape-1.png");
+        background-position: right bottom ;
+        background-size:15%;
+        background-repeat: no-repeat;
+    } 
+    #last-part
+    {
+        margin-top:10px;
+    } 
+    #last-part-bg
+    {
+        background-image:url("shape-6.png");
+        background-size:60%;
+        background-position:left center;
+        background-repeat:no-repeat;
+
+
+    }
+    footer
+    {
+        background-color:black;
+        font-family: 'Karla', sans-serif;
+        font-family: 'Merriweather', serif;
+        font-family: 'Moon Dance', cursive;
+        font-family: 'Playfair Display', serif;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'The Nautigal', cursive;
+        text-align:center;
+        font-weight:900;
+        font-size:50px;
+        padding:10px;
+        margin-top: 100px;
+
+    } 
+    footer h1
+    {
+        color:white;
+    }
+    footer p
+    {
+        font-weight:500;
+        font-size:40px;
+        color:darkcyan
+    }
